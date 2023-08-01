@@ -1,7 +1,8 @@
 <h1>Security Incident Response via NIST CSF</h1>
 
-<h2>Scenario</h2>
-A fictional multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
+<h2>Description</h2>
+The project involves a fictional multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. It recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved. 
+</br></br>
 
 During the attack, the organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services. 
 
@@ -9,10 +10,10 @@ The company’s cybersecurity team then investigated the security event. They fo
 </br></br>
 
 
-<h1>Incedent Report Analysis</h1>
+<h1>Incident Report Analysis</h1>
 <h2>Summmary</h2>
 A security event occurred when network resources were inaccessible.  The cybersecurity team determined the cause was  due to an incoming flood of incoming ICMP packets or DDoS attack. The team blocked the attack and stopped all non-critical network services so that critical ones could be restored.  
-
+</br></br>
 <img src="https://www.bsigroup.com/globalassets/localfiles/en-us/images/misc/nist.jpg"/>
 
 <h2>Identify</h2>
